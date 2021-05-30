@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #22A84E;
+    font-size: 50px;
+}
+
+a {
+    border: 3px solid #6DEEAB;
+    color: #3E7F6A;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    border: 3px solid #7C9C4D;
+    border-radius: 100px;
+    padding: 5px;
+    color: #12543E;
+}
+
+header {
+    background-color: #AFEA59;
+    padding: 15px;
+}
+
+main a {
+    border: none;
+    text-decoration: underline;
+    padding: 10px;
+    background-color: none;
+}
+
+header a {
+    background-color: white;
+}
+
+ul {
+    font-size: 20px;
+    color: #123E54;
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg");
+}
+
+ol {
+    font-size: 20px;
+    color: #123E54;
+}
+
+p a {
+    color: #12543E;
+    text-decoration: none;
+}
